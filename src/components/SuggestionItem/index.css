@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.arrow-icon {
+  height: 20px;
+  width: 20px;
+  color: #bfbfbf;
+  cursor: pointer;
+}
+.button {
+  outline: none;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+.li-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.suggest-name {
+  font-size: 14px;
+  color: #475569;
+  font-family: 'Roboto';
+}
